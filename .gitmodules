@@ -5,3 +5,6 @@
 [submodule "datey"]
 	path = datey
 	url = https://github.com/logmu-org/r-datey
+[submodule "naxp"]
+	path = naxp
+	url = https://github.com/logmu-org/r-naxp
